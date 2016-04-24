@@ -16,3 +16,9 @@ Linear Search
 -------------
 
 .. autofunction:: pydsa.linear_search
+
+
+Knuth Morris Pratt
+-------------
+
+.. autofunction:: pydsa.kmp
